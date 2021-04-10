@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\bin\Debug\SortableShapes.exe.config
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\bin\Debug\SortableShapes.exe
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\bin\Debug\SortableShapes.pdb
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\obj\Debug\SortableShapes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\obj\Debug\SortableShapes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\obj\Debug\SortableShapes.exe
+C:\Users\HP\source\repos\SortableShapes\SortableShapes\obj\Debug\SortableShapes.pdb
